@@ -19,7 +19,11 @@ A Autonomous Based PC or Mobile Control System
 - import time
 
  ## How to run it?
-- run it in python 
+
+- git clone https://github.com/vasundharab28/handgesture
+- pip install -r requirements.txt
+- python hand-gesture.py
+
 - command : python hand-gesture.py  (For hand recognition)
 - press `'b'` to capture the background model (Remember to move your hand out of the blue rectangle)
 - press `'r'` to reset the backgroud model
